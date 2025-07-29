@@ -1,0 +1,19 @@
+.box{
+border:solid 50px red;
+
+width: 200px;
+padding: 20px;
+margin-top: 20px;
+}
+
+.blue{
+    border:solid 50px blue;
+}
+
+.green{
+    border:solid 50px green;
+}
+
+.anothercolor{
+    border:double 50px burlywood;
+}
